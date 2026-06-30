@@ -1,0 +1,134 @@
+[
+  {
+    "id": "sale-1",
+    "date": "2026-01-05",
+    "region": "North",
+    "category": "Software",
+    "product": "Enterprise CRM",
+    "customer": "UrbanMart",
+    "revenue": 240000,
+    "orders": 18,
+    "cost": 68000
+  },
+  {
+    "id": "sale-2",
+    "date": "2026-01-14",
+    "region": "West",
+    "category": "Services",
+    "product": "Implementation",
+    "customer": "EduSpark",
+    "revenue": 95000,
+    "orders": 11,
+    "cost": 26000
+  },
+  {
+    "id": "sale-3",
+    "date": "2026-02-03",
+    "region": "South",
+    "category": "Software",
+    "product": "Analytics Suite",
+    "customer": "FinEdge",
+    "revenue": 125000,
+    "orders": 9,
+    "cost": 37000
+  },
+  {
+    "id": "sale-4",
+    "date": "2026-02-20",
+    "region": "East",
+    "category": "Hardware",
+    "product": "Workstations",
+    "customer": "RetailCore",
+    "revenue": 88000,
+    "orders": 7,
+    "cost": 42000
+  },
+  {
+    "id": "sale-5",
+    "date": "2026-03-08",
+    "region": "North",
+    "category": "Software",
+    "product": "Cloud License",
+    "customer": "CloudNest",
+    "revenue": 175000,
+    "orders": 14,
+    "cost": 51000
+  },
+  {
+    "id": "sale-6",
+    "date": "2026-03-19",
+    "region": "West",
+    "category": "Services",
+    "product": "Training",
+    "customer": "SkillWave",
+    "revenue": 64000,
+    "orders": 19,
+    "cost": 18000
+  },
+  {
+    "id": "sale-7",
+    "date": "2026-04-04",
+    "region": "South",
+    "category": "Software",
+    "product": "Security Add-on",
+    "customer": "MedicoPlus",
+    "revenue": 112000,
+    "orders": 10,
+    "cost": 33000
+  },
+  {
+    "id": "sale-8",
+    "date": "2026-04-18",
+    "region": "East",
+    "category": "Services",
+    "product": "Consulting",
+    "customer": "BuildRight",
+    "revenue": 76000,
+    "orders": 8,
+    "cost": 22000
+  },
+  {
+    "id": "sale-9",
+    "date": "2026-05-07",
+    "region": "North",
+    "category": "Hardware",
+    "product": "POS Devices",
+    "customer": "QuickCart",
+    "revenue": 132000,
+    "orders": 13,
+    "cost": 59000
+  },
+  {
+    "id": "sale-10",
+    "date": "2026-05-23",
+    "region": "West",
+    "category": "Software",
+    "product": "BI Dashboard",
+    "customer": "MarketBee",
+    "revenue": 158000,
+    "orders": 12,
+    "cost": 46000
+  },
+  {
+    "id": "sale-11",
+    "date": "2026-06-06",
+    "region": "South",
+    "category": "Services",
+    "product": "Support Plan",
+    "customer": "TravelMint",
+    "revenue": 69000,
+    "orders": 17,
+    "cost": 21000
+  },
+  {
+    "id": "sale-12",
+    "date": "2026-06-21",
+    "region": "East",
+    "category": "Software",
+    "product": "Automation Tools",
+    "customer": "AutoGrid",
+    "revenue": 145000,
+    "orders": 15,
+    "cost": 39000
+  }
+]

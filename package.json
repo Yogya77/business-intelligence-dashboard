@@ -1,0 +1,11 @@
+{
+  "name": "business-intelligence-dashboard",
+  "version": "1.0.0",
+  "description": "Business Intelligence Dashboard with KPI tracking, sales analytics, revenue charts, category reports, data import simulation, and exportable reports.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
